@@ -21,9 +21,9 @@ real time js watch for using in webpages
     </body>
   ```
 # Options
-  - you can use separated or complete form of time. for separated form use '{{hours}}, {{minutes}}, {{seconds}}' and for complete form use `{{time}}` . 
+  - you can use separated or complete form of time. for separated form use `{{hours}}, {{minutes}}, {{seconds}}` and for complete form use `{{time}}` . 
   - you can add blink to any element of your document. 
-      for adding blink put this 'angula.js' modules to any tag you want to blink.
+      for adding blink put this `angular.js` modules to any tag you want to blink.
   
         ```
         ng-class="{'class name': blinkswitch == true}"
